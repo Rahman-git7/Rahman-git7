@@ -22,7 +22,7 @@ DevOps Engineer in development, focusing on automation and deployment tools. Cur
 
 - 🏥 **[Healthcare Infrastructure](https://drive.google.com/file/d/1PlXLjoWP856V7C8GVAYSbwkYGu0XzBrk/view)** - Secure DevOps infrastructure with Azure, Terraform, AKS and monitoring stack for 50+ health centers
 - 🛠️ **[API certificat](https://gitlab.com/Rahman-S/api-certificats)** - Secure certificate management system with CI/CD
-- 👀 **[DevOps Veille](https://github.com/Rahman-git7/devops-veille)** - Veille technologique automatisée
+- 👀 **[Tech watch](https://github.com/Rahman-git7/devops-veille)** - Automated technology monitoring system
 
 
 ## 📫 Contact
