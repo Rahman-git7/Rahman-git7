@@ -9,7 +9,7 @@ DevOps Engineer in development, focusing on automation and deployment tools. Cur
 **Location**: Paris, France  
 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **🐳 Containerisation** • ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 
@@ -23,14 +23,14 @@ DevOps Engineer in development, focusing on automation and deployment tools. Cur
 
 **📊 Monitoring** • ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-### 🚀 Recent projects
+## 🚀 Recent projects
 
 - 🏥 **[Healthcare Infrastructure](https://drive.google.com/file/d/1PlXLjoWP856V7C8GVAYSbwkYGu0XzBrk/view)** - Secure DevOps infrastructure with Azure, Terraform, AKS and monitoring stack for 50+ health centers
 - 🛠️ **[API certificat](https://gitlab.com/Rahman-S/api-certificats)** - Secure certificate management system with CI/CD
 - 👀 **[DevOps Veille](https://github.com/Rahman-git7/devops-veille)** - Veille technologique automatisée
 
 
-### 📫 Contact
+## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahman-suon-487a331a4/)
 
 
