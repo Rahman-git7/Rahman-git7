@@ -23,6 +23,11 @@ DevOps Engineer in development, focusing on automation and deployment tools. Cur
 
 **📊 Monitoring** • ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
+### 🚀 Recent projects
+
+- 🏥 **[Healthcare Infrastructure](https://drive.google.com/file/d/1PlXLjoWP856V7C8GVAYSbwkYGu0XzBrk/view)** - Secure DevOps infrastructure with Azure, Terraform, AKS and monitoring stack for 50+ health centers
+- 🛠️ **[API certificat](https://gitlab.com/Rahman-S/api-certificats)** - Secure certificate management system with CI/CD
+- 👀 **[DevOps Veille](https://github.com/Rahman-git7/devops-veille)** - Veille technologique automatisée
 
 
 ### 📫 Contact
