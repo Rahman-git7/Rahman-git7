@@ -28,6 +28,7 @@ DevOps Engineer in development, focusing on automation and deployment tools. Cur
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahman-suon-487a331a4/)
 
+📧 **[Hit me up](mailto:contact@rahmansuon.fr?subject=Contact%20from%20GitHub&body=Hello%20Rahman,)**
 
 
 
