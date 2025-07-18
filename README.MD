@@ -1,6 +1,13 @@
 # 👋 Hi, world !
 
 ## 🔧 DevOps Engineer
+DevOps Engineer in development, focusing on automation and deployment tools. Currently working on improving my skills in cloud infrastructure and continuous integration.
+
+**Currently learning**: Advanced Kubernetes, Terraform modules, observability  
+**2025 Goal**: AWS certifications and complete monitoring stack mastery  
+**Focus**: Deployment automation and infrastructure optimization  
+**Location**: Paris, France  
+
 
 ### 🛠️ Tech Stack
 
